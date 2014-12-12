@@ -62,6 +62,8 @@ macombiendezonememoire = quelpiano15;
          mesamplifront[1] += mesvarampli[1];
          montage3 += maforceplus;
          montage4 += maforceplus;
+         mesdurerfront[0] += mesvardurer[0];
+         mesdurerfront[1] += mesvardurer[1];
 
 	 // respect des limites
 	if(mesamplifront[0]>239)
